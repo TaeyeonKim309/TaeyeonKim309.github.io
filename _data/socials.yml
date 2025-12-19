@@ -1,5 +1,4 @@
-email: xingtao.lin@vanderbilt.edu
-google_scholar: 0KuZzPcAAAAJ # 记得换成你的ID，比如: kJeT45sAAAAJ
-github: TaeyeonKim309
-linkedin: 451581377       # 记得换成你的ID
-# 删掉 RSS, Unsplash, GitLab 等其他不需要的行
+email: "xingtao.lin@vanderbilt.edu"
+scholar: "0KuZzPcAAAAJ"       # 注意：关键词改成 scholar，且加上了双引号
+github: "TaeyeonKim309"       # 加上引号最保险
+linkedin: "星涛-林-451581377" # 建议：直接填你的个性化后缀，如果是纯数字ID "451581377" 必须加引号！

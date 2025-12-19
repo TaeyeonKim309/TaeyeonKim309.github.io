@@ -496,8 +496,8 @@ ninja.data = [{
           window.open("mailto:%78%69%6E%67%74%61%6F.%6C%69%6E@%76%61%6E%64%65%72%62%69%6C%74.%65%64%75", "_blank");
         },
       },{
-        id: 'social-google_scholar',
-        title: 'Google_scholar',
+        id: 'social-scholar',
+        title: 'Scholar',
         section: 'Socials',
         handler: () => {
           window.open("", "_blank");

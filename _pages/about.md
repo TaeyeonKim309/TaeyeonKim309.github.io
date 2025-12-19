@@ -6,7 +6,7 @@ subtitle: Ph.D. Student at <a href='https://www.vanderbilt.edu/'>Vanderbilt Univ
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_color.jpg
   image_circular: false # 如果你想要圆形头像，就把这个改成 true
   more_info: >
     <p>OHPEN Lab</p>

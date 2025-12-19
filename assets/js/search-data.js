@@ -440,7 +440,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-project-1",
+            },},{id: "news-excited-to-join-the-ohpen-lab-at-vanderbilt-university-advised-by-prof-you-chen",
+          title: 'Excited to join the OHPEN Lab at Vanderbilt University, advised by Prof. You...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
